@@ -11,13 +11,13 @@ For more details, please refer to the link: https://www.nexdata.ai/datasets/1164
 TXT
 ## Data content
 Chinese-Portuguese Parallel Corpus Data
-Data size
+## Data size
 10.03 million pairs of Chinese-Portuguese Parallel Corpus Data
-Language
+## Language
 Chinese,Portuguese
-Application scenario
+## Application scenario
 machine translation
-Accuracy rate
+## Accuracy rate
 90%
 
 # Licensing Information
